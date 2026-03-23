@@ -1,6 +1,6 @@
 # Assignment 4: Heap Data Structures Implementation, Analysis, and Applications
 
-**Name:** Sakthidhar Koneru
+**Name:** Sai Venkata Bharath Reddy Singareddy
 
 ## Overview
 
